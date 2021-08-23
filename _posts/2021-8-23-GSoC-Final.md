@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GSoC-1 Final Blog
+title: GSoC-Final Final Blog
 date: 2021-7-30
 ---
 
