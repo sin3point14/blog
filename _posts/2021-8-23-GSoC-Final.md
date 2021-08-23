@@ -48,8 +48,8 @@ The 3D rendering can use a lot lot more features like, custom lights(possibly lo
 
 ### Merge requests
 
-- https://gitlab.freedesktop.org/xrdesktop/gulkan/-/merge_requests/14
-- https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/merge_requests/34
+- Merged: [https://gitlab.freedesktop.org/xrdesktop/gulkan/-/merge_requests/14](https://gitlab.freedesktop.org/xrdesktop/gulkan/-/merge_requests/14)
+- Open: [https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/merge_requests/34](https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/merge_requests/34)
 
 ### Ending Note
 
