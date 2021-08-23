@@ -51,6 +51,13 @@ The 3D rendering can use a lot lot more features like, custom lights(possibly lo
 - Merged: [https://gitlab.freedesktop.org/xrdesktop/gulkan/-/merge_requests/14](https://gitlab.freedesktop.org/xrdesktop/gulkan/-/merge_requests/14)
 - Open: [https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/merge_requests/34](https://gitlab.freedesktop.org/xrdesktop/xrdesktop/-/merge_requests/34)
 
+### My GSoC Blogs
+
+- [Adding a texture + uv coordinates to index buffer](https://sin3point14.github.io/GSoC-1/)
+- [Adding a texture + Normal maps!](https://sin3point14.github.io/GSoC-2/)
+- [Adding a Cube to xrdesktop](https://sin3point14.github.io/GSoC-3/)
+- [Loading glTF models](https://sin3point14.github.io/GSoC-4/)
+
 ### Ending Note
 
 I had a lot of fun programming on xrdesktop over this summer and had a blast with my mentors. Thanks!!!
