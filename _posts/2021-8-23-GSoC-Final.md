@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GSoC-Final Final Blog
-date: 2021-7-30
+date: 2021-8-23
 ---
 
 This post is to summarize what all I managed to complete in my GSoC 2021 work period for my project: *glTF Model Loading*  
