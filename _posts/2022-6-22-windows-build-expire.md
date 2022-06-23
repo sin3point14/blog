@@ -21,7 +21,7 @@ Steps:
 
 ### How I found this?
 
-I used [this script](https://gist.github.com/sin3point14/52a3404cbbbfcf51361351227a4e6099) to find the process ID for this process.
-Then used Task Manager > Details to locate the the executable for this PID.
+I used [this script](https://gist.github.com/sin3point14/52a3404cbbbfcf51361351227a4e6099) to find the process ID for this process by hovering my mouse over the popup GUI.  
+Then used Task Manager > Details to locate the executable for this PID.
 
-The Windows developers must have taken care in their code to handle this process not being able to launch. So I took the liberty to ensure that this process never launches :p.
+The Windows developers must have taken care in their code to handle this process executable not being able to launch. So I took the liberty to ensure it never launches :p.
