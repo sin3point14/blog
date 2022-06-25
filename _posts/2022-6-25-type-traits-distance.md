@@ -168,3 +168,5 @@ template <typename T, typename = std::enable_if_t<!std::is_same<typename T::iter
 Both of these templates would be equivalent and the latter would be treated as redefinition.
 
 Find the final code at: [TypeTraitsDistance](https://github.com/sin3point14/TypeTraitsDistance)
+
+PS: While writing this blog I found that [Iterator Tags](https://en.cppreference.com/w/cpp/iterator/iterator_tags) and [Random Access Iterator Tag](https://cplusplus.com/reference/iterator/RandomAccessIterator/) are part of the cpp standard and have proper documentation.
